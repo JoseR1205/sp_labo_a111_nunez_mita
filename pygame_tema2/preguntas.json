@@ -1,0 +1,192 @@
+[
+    {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "respuestas": ["Océano Pacífico", "Océano Atlántico", "Océano Índico", "Océano Antártico"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "respuestas": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Rembrandt"],
+        "resultado": 2
+    },
+    {
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "respuestas": ["China", "Estados Unidos", "Rusia", "Canadá"],
+        "resultado": 3
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "respuestas": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es el metal más precioso?",
+        "respuestas": ["Hierro", "Cobre", "Plata", "Oro"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+        "respuestas": ["Marte", "Venus", "Júpiter", "Saturno"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "respuestas": ["1939", "1945", "1914", "1950"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es la montaña más alta del mundo?",
+        "respuestas": ["Monte Everest", "Monte Kilimanjaro", "Monte Aconcagua", "Monte Fuji"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Quién escribió 'Romeo y Julieta'?",
+        "respuestas": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Fyodor Dostoevsky"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es el idioma más hablado en el mundo?",
+        "respuestas": ["Inglés", "Chino mandarín", "Español", "Hindi"],
+        "resultado": 2
+    },
+    {
+        "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+        "respuestas": ["Italia", "Alemania", "Francia", "España"],
+        "resultado": 3
+    },
+    {
+        "pregunta": "¿Quién fue el primer humano en pisar la Luna?",
+        "respuestas": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Alan Shepard"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "respuestas": ["Kioto", "Hiroshima", "Nagasaki", "Tokio"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Quién fue el primer emperador romano?",
+        "respuestas": ["Julio César", "Augusto", "Nerón", "Calígula"],
+        "resultado": 2
+    },
+    {
+        "pregunta": "¿Cuál es el animal terrestre más grande del mundo?",
+        "respuestas": ["Elefante africano", "Jirafa", "Rinoceronte blanco", "Oso polar"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Quién es el autor de 'La Odisea'?",
+        "respuestas": ["Homero", "Virgilio", "Ovidio", "Esquilo"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "respuestas": ["Sídney", "Melbourne", "Brisbane", "Camberra"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿En qué ciudad se encuentra la Mezquita Azul?",
+        "respuestas": ["Damasco", "El Cairo", "Estambul", "Bagdad"],
+        "resultado": 3
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de México?",
+        "respuestas": ["Benito Juárez", "Miguel Hidalgo", "Porfirio Díaz", "Emiliano Zapata"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es el desierto más grande del mundo?",
+        "respuestas": ["Desierto del Sahara", "Desierto de Atacama", "Desierto de Gobi", "Desierto de Kalahari"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+        "respuestas": ["Pablo Neruda", "Mario Vargas Llosa", "Jorge Luis Borges", "Gabriel García Márquez"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+        "respuestas": ["Español", "Portugués", "Inglés", "Francés"],
+        "resultado": 2
+    },
+    {
+        "pregunta": "¿En qué país se encuentra la Gran Muralla China?",
+        "respuestas": ["Corea del Sur", "Japón", "India", "China"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Quién pintó 'La noche estrellada'?",
+        "respuestas": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Salvador Dalí"],
+        "resultado": 2
+    },
+    {
+        "pregunta": "¿Cuántos continentes hay en el mundo?",
+        "respuestas": ["4", "5", "6", "7"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Quién compuso 'Las cuatro estaciones'?",
+        "respuestas": ["Beethoven", "Mozart", "Vivaldi", "Bach"],
+        "resultado": 3
+    },
+    {
+        "pregunta": "¿En qué país se encuentra la ciudad de Petra?",
+        "respuestas": ["Egipto", "Jordania", "Turquía", "Israel"],
+        "resultado": 2
+    },
+    {
+        "pregunta": "¿Quién fue el primer astronauta en orbitar la Tierra?",
+        "respuestas": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Alan Shepard"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "respuestas": ["Hierro", "Cobre", "Plata", "Aluminio"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Quién escribió 'El principito'?",
+        "respuestas": ["Antoine de Saint-Exupéry", "Franz Kafka", "Jorge Luis Borges", "Gabriel García Márquez"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "respuestas": ["Toronto", "Montreal", "Vancouver", "Ottawa"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Quién fue el primer presidente de la República Popular China?",
+        "respuestas": ["Sun Yat-sen", "Mao Zedong", "Chiang Kai-shek", "Deng Xiaoping"],
+        "resultado": 2
+    },
+    {
+        "pregunta": "¿Cuál es el animal más rápido del mundo?",
+        "respuestas": ["Guepardo", "Leopardo", "Águila", "León"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Quién fue el primer emperador de la dinastía romana?",
+        "respuestas": ["Julio César", "Augusto", "Nerón", "Calígula"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "respuestas": ["India", "Estados Unidos", "Rusia", "China"],
+        "resultado": 4
+    },
+    {
+        "pregunta": "¿Quién escribió 'El retrato de Dorian Gray'?",
+        "respuestas": ["Oscar Wilde", "Jane Austen", "Emily Brontë", "Charles Dickens"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Sudáfrica?",
+        "respuestas": ["Pretoria", "Johannesburgo", "Durban", "Ciudad del Cabo"],
+        "resultado": 1
+    },
+    {
+        "pregunta": "¿En qué año finalizó la Primera Guerra Mundial?",
+        "respuestas": ["1918", "1939", "1945", "1914"],
+        "resultado": 1
+    }
+]
